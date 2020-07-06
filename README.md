@@ -1,21 +1,15 @@
-# <a href="https://github.com/rhildred/es6-twilio-chatbot" target="_blank">es6-twilio-chatbot</a>
+*How to run this project?*
 
-I got the user interface for the web from a student of mine, Pat Wilken.
+1. Install Visual Studio Code
+2. Open the chatbot folder in visual studio code.
+3. Once the folder is loaded click on the new terminal tab.
 
-A chatbot written in es6 and vs6 for twilio and testing on the web. The important files are index.js and game.js.
+*How to use this project?*
 
-A popular theme for the upcoming Halloween holiday is to make haunted house simulations. You will make a choose your own adventure for a haunted house presented as a Twilio chatbot. 
+1. on the terminal console enter npm install and then npm start
+2. you will be prompted with the port number
+3. enter the port number in the web browser. 
+4. the ui would be displayed and enter a text there to get a response 
 
-Marking
------
-
-|Element|Out Of|
-|---|---|
-|get a game or choose your own adventure in es6| 60|
-|count case and if statements|2/3 each up to 20 points|
-|spelling and grammar|10|
-|on time|10|
-
-
-
-
+*License*
+The GNU General Public License Version 3, is used for it's free software license that ensures users the freedom to analyse ,share and run the software.
